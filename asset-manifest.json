@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/get-skill-quote-machine-v/static/css/main.4f63246c.chunk.css",
+    "main.js": "/get-skill-quote-machine-v/static/js/main.00350aa8.chunk.js",
+    "main.js.map": "/get-skill-quote-machine-v/static/js/main.00350aa8.chunk.js.map",
+    "runtime-main.js": "/get-skill-quote-machine-v/static/js/runtime-main.26f429b7.js",
+    "runtime-main.js.map": "/get-skill-quote-machine-v/static/js/runtime-main.26f429b7.js.map",
+    "static/js/2.e3afd5c7.chunk.js": "/get-skill-quote-machine-v/static/js/2.e3afd5c7.chunk.js",
+    "static/js/2.e3afd5c7.chunk.js.map": "/get-skill-quote-machine-v/static/js/2.e3afd5c7.chunk.js.map",
+    "static/js/3.7a8e9b99.chunk.js": "/get-skill-quote-machine-v/static/js/3.7a8e9b99.chunk.js",
+    "static/js/3.7a8e9b99.chunk.js.map": "/get-skill-quote-machine-v/static/js/3.7a8e9b99.chunk.js.map",
+    "index.html": "/get-skill-quote-machine-v/index.html",
+    "static/css/main.4f63246c.chunk.css.map": "/get-skill-quote-machine-v/static/css/main.4f63246c.chunk.css.map",
+    "static/js/2.e3afd5c7.chunk.js.LICENSE.txt": "/get-skill-quote-machine-v/static/js/2.e3afd5c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f429b7.js",
+    "static/js/2.e3afd5c7.chunk.js",
+    "static/css/main.4f63246c.chunk.css",
+    "static/js/main.00350aa8.chunk.js"
+  ]
+}
